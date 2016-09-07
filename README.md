@@ -4,3 +4,8 @@ FilterTktNum_pushed.py
 Take all files pushed by AMP as input : filename is like 'c_TST.TKT.JLTT*'
 To sort out 3 files for JL/JC/NU, containing expected ticket numbers of feeds for each airline
 
+
+FormatTKTREQMIG.py
+Take all files pushed by AMP as input : filename is like 'c_TST.TKT.JLTT*'
+To format all TKTREQ MIG messages inside, and output in 'FormattedTKTREQMIG.md'.
+
